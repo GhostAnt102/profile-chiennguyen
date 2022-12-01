@@ -1,12 +1,12 @@
  export const skillsData = [
-    'HTML',
-    'CSS',
-    'Javascript',
-    "Node JS",
-    'React',
-    "MongoDB",
-    "Git",
-    "Bootstrap",
+    'Create a test plan',
+    'Create test case',
+    'Log bug',
+    'Create report bug file',
+    'Ability to test API using Postman',
+    // "MS Office",
+    "Read english",
+    // "Bootstrap",
     "Microsoft Office"
   
 ]

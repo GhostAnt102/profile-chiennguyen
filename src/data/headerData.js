@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
-import  Devesh  from "../jpg/cnguyen.jpg"
+import  cnguyen  from "../jpg/cnguyen.jpg"
 export const headerData = {
-    name: 'Devesh Verma',
-    title: "Full-Stack Web Developer",
-    desciption:"Full-stack web developer with a specialization in front-end and back-end web development. Adaptable to new technology to enhance my skills and capabilities.",
-    image: Devesh,
+    name: 'Chien Nguyen',
+    title: "Web/App Testing",
+    desciption:"Comprehensive web/app tester with expertise in manual testing and automation testing. Adapting to new technology to improve my skills and abilities.",
+    image: cnguyen,
     resumePdf: resume
 }

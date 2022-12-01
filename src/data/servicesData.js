@@ -7,11 +7,11 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
  
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
+    {
+        id: 1,
+        title: 'Manual test',
+        icon: <BiShoppingBag/>
+    },
     {
         id: 2,
         title: 'Content Writing',
@@ -19,7 +19,7 @@ export const servicesData = [
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Automation test',
         icon: <AiOutlineMail />
     },
     // {
@@ -58,11 +58,11 @@ export const servicesData = [
     //     title: 'Data Entry', 
     //     icon: <BsClipboardData />
     // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
+    // {
+    //     id: 11,
+    //     title: 'Ebook Writing',
+    //     icon: <FaTabletAlt />
+    // },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
