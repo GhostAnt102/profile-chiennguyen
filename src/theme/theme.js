@@ -10,7 +10,7 @@ import {
 
 export const greenThemeLight = {
     type: 'light',
-    primary: '#3fc337',
+    primary: '#3f51b5',
     primary400: '#57d750',
     primary600: '#29c51f',
     primary80: '#3fc337cc',
@@ -32,7 +32,7 @@ export const greenThemeLight = {
 
 export const greenThemeDark = {
     type: 'dark',
-    primary: '#3fc337',
+    primary: '#fff',
     primary400: '#57d750',
     primary600: '#29c51f',
     primary80: '#3fc337cc',
@@ -53,7 +53,7 @@ export const greenThemeDark = {
 }
 export const bwThemeLight = {
     type: 'light',
-    primary: '#000000',
+    primary: '#3f51b5',
     primary400: '#000000',
     primary600: '#000000',
     primary80: '#000000cc',
@@ -96,7 +96,7 @@ export const bwThemeDark = {
 
 export const blueThemeLight = {
     type: 'light',
-    primary: '#545fc4',
+    primary: '#3f51b51',
     primary400: '#6e76c7',
     primary600: '#3644c9',
     primary80: '#545fc4cc',
@@ -139,12 +139,12 @@ export const blueThemeDark = {
 
 export const redThemeLight = {
     type: 'light',
-    primary: '#f03939',
-    primary400: '#dd4d4d',
+    primary: '#3f51b5',
+    primary400: '#398af04d',
     primary600: '#ea2424',
-    primary80: '#f03939cc',
-    primary50: '#f0393980',
-    primary30: '#f039394d',
+    primary80: '#398af04d',
+    primary50: '#20a1c680',
+    primary30: '#398af04d',
     secondary: '#eaeaea',
     secondary70: '#eaeaeab3',
     secondary50: '#eaeaea80',
@@ -160,12 +160,12 @@ export const redThemeLight = {
 }
 export const redThemeDark = {
     type: 'dark',
-    primary: '#f03939',
-    primary400: '#dd4d4d',
+    primary: '#fff',
+    primary400: '#398af04d',
     primary600: '#ea2424',
-    primary80: '#f03939cc',
-    primary50: '#f0393980',
-    primary30: '#f039394d',
+    primary80: '#398af04d',
+    primary50: '#20a1c680',
+    primary30: '#398af04d',
     secondary: '#212121',
     secondary70: '#212121b3',
     secondary50: '#21212180',
